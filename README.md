@@ -1,2 +1,2 @@
 # Black-Box
-Pyhon samples
+Python samples
